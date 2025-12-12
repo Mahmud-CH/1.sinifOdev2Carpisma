@@ -1,1 +1,0 @@
-# 1.sinifOdev2Carpisma
