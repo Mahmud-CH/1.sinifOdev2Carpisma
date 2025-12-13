@@ -1,1 +1,1 @@
-simple Colision detection in cpp
+simple Collision detection in cpp
